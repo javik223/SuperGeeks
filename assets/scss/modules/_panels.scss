@@ -1,0 +1,19 @@
+.homeinfopanel {
+	background-color: $primary;
+	padding: rem-calc(20);
+	color: $white;
+	border-radius: rem-calc(10);
+	margin-top: rem-calc(20);
+
+	h1, h2, h3, h4, h5, h6 {
+		color: $white;
+	}
+
+	@media #{$small-only} {
+		text-align: center;
+
+		img {
+			max-width: 60%;
+		}
+	}
+}
