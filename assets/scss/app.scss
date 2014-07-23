@@ -1,12 +1,13 @@
 //Reset Stylesheets
 @import "compass/reset";
 
-//Fonts
-@import "modules/fonts";
 
 //Include some basic modules
 @import "modules/color";
 @import "modules/type";
+
+//Fonts
+@import "modules/fonts";
 
 //Foundation Settings
 @import "settings";
@@ -22,6 +23,7 @@
 @import "foundation/components/tables";
 @import "foundation/components/clearing";
 @import "foundation/components/type";
+@import "foundation/components/pricing-tables";
 
 
 // Or selectively include components
@@ -67,6 +69,11 @@
 @import "modules/homebanners";
 @import "modules/panels";
 @import "modules/footer";
+@import "modules/main";
+
+body {
+	background-color: lighten($gray, 55%);
+}
 
 .SGSlogan {
 	color: $gray;

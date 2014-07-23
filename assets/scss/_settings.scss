@@ -842,13 +842,13 @@ $button-bg: $secondary;
 // $include-html-pricing-classes: $include-html-classes;
 
 // We use this to control the border color
-// $price-table-border: solid 1px #ddd;
+$price-table-border: solid 1px $primary;
 
 // We use this to control the bottom margin of the pricing table
 // $price-table-margin-bottom: rem-calc(20);
 
 // We use these to control the title styles
-// $price-title-bg: #333;
+$price-title-bg: $primary;
 // $price-title-padding: rem-calc(15 20);
 // $price-title-align: center;
 // $price-title-color: #eee;

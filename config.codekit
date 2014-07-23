@@ -2,6 +2,14 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "16877",
 "files": {
+	"\/about.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/css\/app.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -18,6 +26,116 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/img\/apple.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5301,
+		"inputAbbreviatedPath": "\/assets\/img\/apple.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/apple.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/arrow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3166,
+		"inputAbbreviatedPath": "\/assets\/img\/arrow.png",
+		"outputAbbreviatedPath": "\/assets\/img\/arrow.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/blackberry.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9540,
+		"inputAbbreviatedPath": "\/assets\/img\/blackberry.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/blackberry.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dell.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9738,
+		"inputAbbreviatedPath": "\/assets\/img\/dell.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dell.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8976,
+		"inputAbbreviatedPath": "\/assets\/img\/hp.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hp.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/htc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4709,
+		"inputAbbreviatedPath": "\/assets\/img\/htc.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/htc.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/lg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6578,
+		"inputAbbreviatedPath": "\/assets\/img\/lg.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/lg.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/microsoft.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5538,
+		"inputAbbreviatedPath": "\/assets\/img\/microsoft.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/microsoft.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/motorola.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8646,
+		"inputAbbreviatedPath": "\/assets\/img\/motorola.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/motorola.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/nokia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4890,
+		"inputAbbreviatedPath": "\/assets\/img\/nokia.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/nokia.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/panasonic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5952,
+		"inputAbbreviatedPath": "\/assets\/img\/panasonic.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/panasonic.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/PC-Song-Album-Art-Chioma.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -25,6 +143,56 @@
 		"initialSize": 757750,
 		"inputAbbreviatedPath": "\/assets\/img\/PC-Song-Album-Art-Chioma.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/PC-Song-Album-Art-Chioma.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/samsung.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6614,
+		"inputAbbreviatedPath": "\/assets\/img\/samsung.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/samsung.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/sony.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5057,
+		"inputAbbreviatedPath": "\/assets\/img\/sony.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/sony.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Supergeeks-about-display-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124016,
+		"inputAbbreviatedPath": "\/assets\/img\/Supergeeks-about-display-1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Supergeeks-about-display-1.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Supergeeks-about-display-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89692,
+		"inputAbbreviatedPath": "\/assets\/img\/Supergeeks-about-display-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Supergeeks-about-display-2.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Supergeeks-about-display-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80787,
+		"inputAbbreviatedPath": "\/assets\/img\/Supergeeks-about-display-3.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Supergeeks-about-display-3.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -58,12 +226,32 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/Supergeeks-mascot-on-blue.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96797,
+		"inputAbbreviatedPath": "\/assets\/img\/Supergeeks-mascot-on-blue.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Supergeeks-mascot-on-blue.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/app.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/app-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/app-ck.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/app-ck.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/app-ck-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -173,6 +361,21 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/scss\/modules\/_main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scss\/modules\/_main.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_main.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/assets\/scss\/modules\/_panels.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -202,6 +405,87 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/bower_components\/doc-ready\/doc-ready.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/doc-ready\/doc-ready.js",
+		"outputAbbreviatedPath": "\/bower_components\/doc-ready\/min\/doc-ready-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/doc-ready\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/doc-ready\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/doc-ready\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/eventEmitter\/EventEmitter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/eventEmitter\/EventEmitter.js",
+		"outputAbbreviatedPath": "\/bower_components\/eventEmitter\/min\/EventEmitter-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/eventEmitter\/EventEmitter.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/eventEmitter\/EventEmitter.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/eventEmitter\/min\/EventEmitter.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/eventEmitter\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/eventEmitter\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/eventEmitter\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/eventie\/eventie.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/eventie\/eventie.js",
+		"outputAbbreviatedPath": "\/bower_components\/eventie\/min\/eventie-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/eventie\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/eventie\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/eventie\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/eventie\/test.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/eventie\/test.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
 		},
 	"\/bower_components\/fastclick\/lib\/fastclick.js": {
 		"fileType": 64,
@@ -1155,6 +1439,131 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/bower_components\/get-size\/get-size.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/get-size\/get-size.js",
+		"outputAbbreviatedPath": "\/bower_components\/get-size\/min\/get-size-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/get-size\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/get-size\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/get-size\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/get-size\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/get-size\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/get-size\/test\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/get-size\/test\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/get-size\/test\/tests.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/get-size\/test\/tests.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/get-size\/test\/tests.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/get-size\/test\/tests.js",
+		"outputAbbreviatedPath": "\/bower_components\/get-size\/test\/min\/tests-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/get-style-property\/get-style-property.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/get-style-property\/get-style-property.js",
+		"outputAbbreviatedPath": "\/bower_components\/get-style-property\/min\/get-style-property-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/get-style-property\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/get-style-property\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/get-style-property\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-bridget\/jquery.bridget.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-bridget\/jquery.bridget.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-bridget\/min\/jquery.bridget-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-bridget\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-bridget\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-bridget\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-bridget\/test\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-bridget\/test\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-bridget\/test\/nice-greeter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-bridget\/test\/nice-greeter.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-bridget\/test\/min\/nice-greeter-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-bridget\/test\/tests.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-bridget\/test\/tests.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-bridget\/test\/min\/tests-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/bower_components\/jquery-placeholder\/demo.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2048,6 +2457,75 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/wrap.js",
 		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/wrap-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/masonry\/dist\/masonry.pkgd.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/masonry\/dist\/masonry.pkgd.js",
+		"outputAbbreviatedPath": "\/bower_components\/masonry\/dist\/min\/masonry.pkgd-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/masonry\/dist\/masonry.pkgd.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/masonry\/dist\/masonry.pkgd.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/masonry\/dist\/min\/masonry.pkgd.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/masonry\/masonry.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/masonry\/masonry.js",
+		"outputAbbreviatedPath": "\/bower_components\/masonry\/min\/masonry-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/matches-selector\/matches-selector.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/matches-selector\/matches-selector.js",
+		"outputAbbreviatedPath": "\/bower_components\/matches-selector\/min\/matches-selector-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/matches-selector\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/matches-selector\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/matches-selector\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/matches-selector\/tests.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/matches-selector\/tests.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/matches-selector\/tests.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/matches-selector\/tests.js",
+		"outputAbbreviatedPath": "\/bower_components\/matches-selector\/min\/tests-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -3501,12 +3979,59 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/bower_components\/outlayer\/item.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/outlayer\/item.js",
+		"outputAbbreviatedPath": "\/bower_components\/outlayer\/min\/item-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/outlayer\/outlayer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/outlayer\/outlayer.js",
+		"outputAbbreviatedPath": "\/bower_components\/outlayer\/min\/outlayer-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/outlayer\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/outlayer\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/outlayer\/README.html",
+		"outputPathIsSetByUser": 0
+		},
 	"\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/config.rb",
 		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/fix-and-repairs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/fix-and-repairs.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
 	"\/index.html": {
@@ -3525,6 +4050,14 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/privacy-policy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/privacy-policy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
 	"\/README.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -3534,6 +4067,38 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/README.md",
 		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/SGp.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/SGp.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/tech-support.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tech-support.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/terms.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/terms.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/why-chose-us.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/why-chose-us.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		}
 	},
