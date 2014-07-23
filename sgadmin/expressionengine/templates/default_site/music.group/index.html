@@ -1,0 +1,52 @@
+{embed="Main/.header"}
+<div class="body">
+    <h2 class="page-header">MUSIC</h2>
+
+  {exp:channel:entries channel="music"}
+    <div class="music-item">
+      <div class="music-item_cover-art medium-3 column">
+        <img src="{cover_art}" alt="{title}">
+      </div>
+
+      <div class="music-item_title medium-3 column">
+        <h3>{title}</h3>
+
+        <div  class="music-item_description">
+            {description}
+        </div>
+      </div>
+
+      <div class="music-item_length medium-1 column">
+        {track_length}
+      </div>
+
+      <div class="music-item_play medium-5 column">
+        <iframe width="100%" height="100" scrolling="no" frameborder="no" src="{sound_cloud_url}"></iframe>
+
+          <div class="music-item_lyrics-credits">
+            <span class="lyrics js-lyrics-link"><span>LYRICS</span></span>
+
+            <span class="credits js-credits-link"><span>CREDITS</span></span>
+          </div>
+      </div>
+
+      <div class="music-item_lyrics medium-12 column">
+          <h3>{title} Lyrics</h3>
+
+          {lyrics}
+          
+          <div class="close icon-close js-lyrics-close">&nbsp;</div>
+      </div>
+
+      <div class="music-item_credits medium-12 column">
+          <h3>{title} CREDITS</h3>
+          
+          {credits}
+          
+          <div class="close icon-close js-credits-close">&nbsp;</div>
+      </div>
+    </div>
+  {/exp:channel:entries}
+
+  </div> 
+{embed="Main/.footer"}
