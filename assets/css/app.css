@@ -4126,53 +4126,44 @@ blockquote p {
     max-width: 60%;
   }
 }
-
 /* line 20, ../scss/modules/_panels.scss */
+.homeinfopanel a {
+  color: white;
+  text-decoration: none;
+}
+/* line 24, ../scss/modules/_panels.scss */
+.homeinfopanel a:hover {
+  color: #d1eefb;
+}
+
+/* line 29, ../scss/modules/_panels.scss */
 .dPanels {
   float: left;
   margin-bottom: 2.5rem !important;
   clear: both;
 }
 
-/* line 25, ../scss/modules/_panels.scss */
+/* line 34, ../scss/modules/_panels.scss */
 .dPanel {
   border: 1px solid #eeeeee;
   border-radius: 0.1875rem;
   border-bottom: 5px solid #43bcf0;
   padding: 2.5rem !important;
 }
-@media only screen and (min-width: 40.063em) and (max-width: 64em) {
-  /* line 25, ../scss/modules/_panels.scss */
-  .dPanel {
-    padding-left: 0.9375rem;
-    padding-right: 0.9375rem;
-    width: 50%;
-    float: left;
-  }
-}
-@media only screen and (min-width: 64.063em) {
-  /* line 25, ../scss/modules/_panels.scss */
-  .dPanel {
-    padding-left: 0.9375rem;
-    padding-right: 0.9375rem;
-    width: 50%;
-    float: left;
-  }
-}
-/* line 43, ../scss/modules/_panels.scss */
+/* line 40, ../scss/modules/_panels.scss */
 .dPanel .dPanel_title {
   text-align: center;
   font-size: 1.25rem;
   color: #43bcf0;
 }
-/* line 49, ../scss/modules/_panels.scss */
+/* line 46, ../scss/modules/_panels.scss */
 .dPanel .dPanel_icon {
   text-align: center;
   float: none;
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
 }
-/* line 56, ../scss/modules/_panels.scss */
+/* line 53, ../scss/modules/_panels.scss */
 .dPanel li {
   list-style-image: url('/assets/img/arrow.png?1405970161');
 }
